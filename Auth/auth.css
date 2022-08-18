@@ -1,0 +1,19 @@
+.container {
+    top: 50%;
+    left: 50%;
+    position: absolute;
+    transform: translate(-50%, -50%);
+}
+
+.first {
+    background-color: #fff;
+}
+
+.second {
+    background-color: #F9F9F9;
+    font-family: Leelawadee UI;
+}
+
+.form-control {
+    border: none;
+}
