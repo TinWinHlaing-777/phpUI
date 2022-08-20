@@ -1,9 +1,11 @@
-.profile__logo {
-    width: 50px;
-    height: 50px;
-    margin-left: auto;
-    margin-right: auto;
+body {
+    background-image: linear-gradient(rgba(0, 0, 0, .6), rgba(0, 0, 0, 0.6)), url("../images/Doodle.svg");
+    background-size: cover;
+    background-repeat: no-repeat;
+    height: 100%;
 }
+
+
 
 .about__txt {
     text-decoration: none;
@@ -43,6 +45,11 @@
 }
 
 .cmt__profile {
+    width: 50px;
+    height: 50px;
+}
+
+.sug__profile {
     width: 50px;
     height: 50px;
 }
